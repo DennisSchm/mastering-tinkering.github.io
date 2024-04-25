@@ -1,13 +1,25 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me & My Little Portfolio Website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hello, fellow human (?) 👋 I am computer wizzard, who keeps learning new digital spells. 🧙‍♂️ Envision me as an IT & Design hybrid, which conveniently enough, is also my bachelor's title. My interest in computers started through entertainment. However, my specialization in Human-Computer Interaction made space in my chest for new design tools, such as coding and hardware. 💻 This love runs deep ever since.
+
+Currently, I'm part of EIT's - Human Computer Interaction and Design Master program. 🎓 Here, I decided to specialise in Physical Interaction Design & Realisation at the KTH (Stockholm) in August, all thanks to the sponsorship of my generous benefactor, the European Union. 🇪🇺 As entry university I am happily attending the University of Twente, which has alumnis like Cees Links (WiFi innovator), Jaap Haartsen (inventor of Bluetooth), and Dirk-Willem van Gulik (a co-founder of the Apache Software Foundation)! Here, I'm forgeing my future ventures with studies about business, technological entrepreneurship and design. I strive to lift potent ideas into tangible products and refine them with and for people. 💼 
+
+Another great thing the UT allows me to study is tinkering. To be precise the course Mastering Tinkering is what brought you this little portfolio website. Please be welcome to delve into my creations from this unusual course. 
+
+## Even More About Me
+
+As technical entrepreneur, my passion lies in easing human tech use. Studying Interaction Technology at UTwente has given me a lens to identify design needs beyond computers. Ever struggled to clean a glass that’s just too narrow? Feelings like this, prompt me to develop my own Design Language. 🎨 Who knows? Maybe we'll meet at a design agency bearing my name one day? All glasses there will be spotless, I promise. Until then, I'll continue drawing inspiration from giants like Apple, Braun or Teenage Engineering. 🍏🔌🎧 
+
+Main Quest: I'm am currently working on simplifying the complexities of employee timekeeping. ⏰ I am aiming to create a company, offering an affordable product that enables customers to fulfill their obligations in a simple, self-managed way. 🎯
+
+I'm all about design, development and making things happen. Excited to see where this journey takes me next!
 
 A data-driven personal website
 ======
