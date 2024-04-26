@@ -12,7 +12,7 @@ title                    : "Dennis Schmöger / Mastering Tinkering Portfolio"
 title_separator          : "-"
 name                     : &name "Dennis Schmöger"
 description              : &description "Technology Interaction Designer"
-url                      : dennisschm.github.io/mastering-tinkering.github.io/
+url                      : "https://dennisschm.github.io/mastering-tinkering.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dennisschm.github.io/mastering-tinkering.github.io/"
 
