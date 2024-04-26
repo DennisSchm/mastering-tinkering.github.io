@@ -1,5 +1,5 @@
 ---
-permalink: /materials
+permalink: /materials.md
 title: "Material Table"
 author_profile: true
 redirect_from: 
