@@ -33,7 +33,7 @@ When I first moved into my new student home, I was quite skeptical about why it 
 
 #### PocketOperator KO-33
 My PocketOperator KO-33. What a wonderful piece of hardware. With this creation of my role model company Teenage Engineering, people create unique sample based music and for it's small form factor it is quite powerful. To me it looks bare bones, well thought out and industrial. It is a reminder to me, that good things are often simple. I strive with my creations to archive the simple elegance this device has. 
-![The PocketOperator PO-33](../images/PO33.png)
+![The PocketOperator PO-33](PO33.png)
 
 #### A Window
 Yes, my window. Not only does it provide me with the sunlight that powers my day and thus my creations, it also allows me a nice view on the campus. It is a steady reminder, that whenever I reach a limit with my digital setup or need to get my hands dirty in order to get tangible results, I am only a 10 minute walk away from the Design Lab. Also other facilities like smart XP are in short reach, which empowers me to experiment and venture into new skills and projects. My window serves as a symbol for the possibilities I've been given and prompts me to get up and do things. 
